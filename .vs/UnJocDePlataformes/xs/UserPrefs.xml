@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0DBF2327-771E-AB32-5746-7D808E0253C2}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MotoControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GamePlay.cs" Line="103" Column="1" />
+      <File FileName="Assets/Scripts/NubeControl.cs" Line="16" Column="3" />
+      <File FileName="Assets/Scripts/MotoristaFollower.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/MotoControl.cs" Line="153" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
